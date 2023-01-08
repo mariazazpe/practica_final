@@ -1,0 +1,2 @@
+hemos eliminado los modelos guardados en pickle para cargar el trabajo a canvas, pero dejado este archivo de texto para 
+que al comprimir se mantenga la carpeta y sigan funcionando las rutas.
